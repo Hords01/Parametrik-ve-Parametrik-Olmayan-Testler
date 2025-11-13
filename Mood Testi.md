@@ -28,6 +28,7 @@ H_1: \sigma_1^2 \neq \sigma_2^2
 
 H_0: İki grubun dağılışlarının (varyanslarının) eşit olduğunu
 H_1: İki grubun dağılışlarının (varyanslarının) eşit olmadığını ifade eder.
+```
 
 ## 🧮 Testin Uygulanışı (Adım Adım)
 
