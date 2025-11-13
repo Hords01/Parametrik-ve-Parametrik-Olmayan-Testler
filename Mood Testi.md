@@ -22,9 +22,9 @@ Parametrik testlerdeki gibi normal dağılım varsayımı aranmaz. Bu nedenle, �
 
 ### Hipotezler
 
-\
-$H_0: \sigma_1^2 = \sigma_2^2
-\
+\$$
+H_0: \sigma_1^2 = \sigma_2^2
+\$$
 \
 $H_1: \sigma_1^2 \neq \sigma_2^2
 \
