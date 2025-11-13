@@ -104,9 +104,9 @@ E_{ij} = \frac{(\text{Grup i toplamı}) \cdot (\text{Kategori j toplamı})}{\tex
 ### 5️⃣ Mood İstatistiğinin Hesaplanması
 - Ki-kare istatistiği:  
 
-\[
+\$$[
 \chi^2 = \sum_{i=1}^{2} \sum_{j=1}^{2} \frac{(O_{ij} - E_{ij})^2}{E_{ij}}
-\]
+\]$$
 
 ---
 
