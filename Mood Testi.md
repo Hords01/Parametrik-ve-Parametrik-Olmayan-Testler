@@ -84,20 +84,20 @@ S_{ij} =
 ### 4️⃣ Ki-Kare Tablosunun Oluşturulması
 - Her grup için medyanın altında ve üstünde kalan gözlem sayıları:  
 
-\[
+\$$[
 O_{11} = \text{Grup 1'de medyanın altında kalan sayısı}, \quad
 O_{12} = \text{Grup 1'de medyanın üstünde kalan sayısı}
 \]  
 \[
 O_{21} = \text{Grup 2'de medyanın altında kalan sayısı}, \quad
 O_{22} = \text{Grup 2'de medyanın üstünde kalan sayısı}
-\]
+\]$$
 
 - Beklenen değerler:  
 
-\[
+\$$[
 E_{ij} = \frac{(\text{Grup i toplamı}) \cdot (\text{Kategori j toplamı})}{\text{Toplam gözlem sayısı}}
-\]
+\]$$
 
 ---
 
