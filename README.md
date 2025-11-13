@@ -1,0 +1,1 @@
+# Parametrik-ve-Parametrik-Olmayan-Testler
