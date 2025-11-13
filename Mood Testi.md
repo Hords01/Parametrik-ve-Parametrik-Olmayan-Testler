@@ -21,13 +21,14 @@ Parametrik testlerdeki gibi normal dağılım varsayımı aranmaz. Bu nedenle, �
 3. Grupların medyanları birbirine eşit olmalıdır (ön koşul).
 
 Hipotezler:
-
+```
 \[
 H_0: \sigma_1^2 = \sigma_2^2
 \]  
 \[
 H_1: \sigma_1^2 \neq \sigma_2^2
 \]
+```
 
 > `H0`: İki grubun dağılışlarının (varyanslarının) eşit olduğunu,  
 > `H1`: İki grubun dağılışlarının (varyanslarının) eşit olmadığını ifade eder.
