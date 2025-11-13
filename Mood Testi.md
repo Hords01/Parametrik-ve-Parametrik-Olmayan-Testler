@@ -26,7 +26,7 @@ Parametrik testlerdeki gibi normal dağılım varsayımı aranmaz. Bu nedenle, �
 $$H_0: \sigma_1^2 = \sigma_2^2$$
 \
 \
-$H_1: \sigma_1^2 \neq \sigma_2^2
+$$H_1: \sigma_1^2 \neq \sigma_2^2$$
 \
 
 > **Not:**  
@@ -42,10 +42,10 @@ Mood testi, verilerin medyan etrafındaki dağılış farklarını inceler.
 ### 1️⃣ Verilerin Hazırlanması
 - İki bağımsız grubun gözlemleri belirlenir:  
 
-\[
-X_1 = \{x_{11}, x_{12}, ..., x_{1n_1}\}, \quad
-X_2 = \{x_{21}, x_{22}, ..., x_{2n_2}\}
-\]
+\
+$$X_1 = \{x_{11}, x_{12}, ..., x_{1n_1}\}, \quad$$
+$$X_2 = \{x_{21}, x_{22}, ..., x_{2n_2}\}$$
+\
 
 - Örneklerin boyutları farklı olabilir.
 
@@ -54,28 +54,28 @@ X_2 = \{x_{21}, x_{22}, ..., x_{2n_2}\}
 ### 2️⃣ Genel Medyanın Hesaplanması
 - Tüm gözlemler birleştirilir:  
 
-\[
-X = X_1 \cup X_2
-\]
+\
+$$X = X_1 \cup X_2$$
+\
 
 - Genel medyan hesaplanır:  
 
-\[
-\tilde{X} = \text{Medyan}(X)
-\]
+\
+$$\tilde{X} = \text{Medyan}(X)$$
+\
 
 ---
 
 ### 3️⃣ Gözlemlerin Sınıflandırılması
 - Her gözlem, medyanın üzerinde mi altında mı diye sınıflandırılır:
 
-\[
+\$$[
 S_{ij} =
 \begin{cases} 
 1 & x_{ij} > \tilde{X} \\
 0 & x_{ij} \le \tilde{X} 
 \end{cases}
-\]
+\]$$
 
 - Burada \(i = 1,2\) grup numarası, \(j = 1,...,n_i\) gözlem numarasıdır.
 
